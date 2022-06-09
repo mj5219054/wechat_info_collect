@@ -1,6 +1,7 @@
 
 
 # 电子取证 | wechat_info_collect  
+# [取证](https://github.com/mj5219054/wechat_info_collect/blob/master/README1.md)  
 
 调查取证 | 针对微信客户端的信息收集工具, 一键提取本地PC所有的微信信息, 包括微信号, 手机号等  
 公众号: 饿猫的小黑屋 | 薛定的饿猫  
